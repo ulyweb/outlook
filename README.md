@@ -1,9 +1,11 @@
-# Microsoft Outlook Client in Legacy Mode
+> [!NOTE]
+> # Microsoft Outlook Client in Legacy Mode
 
 
 Experiencing issues with Scheduling Assistant not autofilling specific contacts, while the issue is resolved in New Mode
 
-Here's a **single-line PowerShell command** that ensures:  
+> [!IMPORTANT]
+> Here's a **single-line PowerShell command** that ensures:  
 ✅ **Runs with Administrator Privileges**  
 ✅ **Sets Execution Policy to Bypass**  
 ✅ **Executes the Refresh-OutlookCache Script**  
