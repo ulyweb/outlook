@@ -1,4 +1,3 @@
-> [!NOTE]
 > [!Microsoft Outlook Client in Legacy Mode]
 
 
