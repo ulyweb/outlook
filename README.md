@@ -1,4 +1,6 @@
-> [!Microsoft Outlook Client in Legacy Mode]
+> [!MICROSOFT OUTLOOK CLIENT IN LEGACY MODEL]
+>
+> Microsoft Outlook Client in Legacy Mode]
 
 
 Experiencing issues with Scheduling Assistant not autofilling specific contacts, while the issue is resolved in New Mode
