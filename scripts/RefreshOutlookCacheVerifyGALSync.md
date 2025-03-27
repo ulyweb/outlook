@@ -1,4 +1,4 @@
-Here’s a PowerShell script that does the following:  
+### Here’s a PowerShell script that does the following:  
 ✅ **Deletes the Outlook Auto-Complete Cache** (for Legacy Mode)  
 ✅ **Forces a GAL Refresh** by updating the local cache (if applicable)  
 ✅ **Checks if the GAL is properly syncing from Exchange Online**  
@@ -65,5 +65,3 @@ Write-Host "Outlook Cache Refresh Completed!"
 - Restarts Outlook to **force fresh GAL download**.
 
 Since **your environment is online-only (Cached Mode disabled)**, this script will primarily help clear **AutoComplete Cache issues** and restart Outlook to force a fresh GAL sync.
-
-Let me know if you need modifications or additional logging! 🚀
